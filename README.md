@@ -50,4 +50,12 @@ Since Jan. 1, 2015, The Washington Post has been compiling a database of every f
 
 The Washington Post is tracking more than a dozen details about each killing - including the race, age and gender of the deceased, whether the person was armed, and whether the victim was experiencing a mental-health crisis. They have gathered this information from law enforcement websites, local new reports, social media, and by monitoring independent databases such as "Killed by police" and "Fatal Encounters". The Post has also conducted additional reporting in many cases.
 
+## BD5. Estadísticas asesinatos, población y crímenes (deaths_and_stats.csv)
+
+This dataset pulls together data related to police violence in the United States. At this stage, it is focused on fatalities of citizens and police. I hope this dataset can be an objective source for providing thoughtful, fact-based analysis of this important issue.
+
+
+
+
+
 

@@ -54,6 +54,9 @@ The Washington Post is tracking more than a dozen details about each killing - i
 
 This dataset pulls together data related to police violence in the United States. At this stage, it is focused on fatalities of citizens and police. I hope this dataset can be an objective source for providing thoughtful, fact-based analysis of this important issue.
 
+## BD6. Base datos FBI (2010 a 2019) (FBI.csv)
+
+The Murder Accountability Project is the most complete database of homicides in the United States currently available. This dataset includes murders from the FBI's Supplementary Homicide Report from 1976 to the present and Freedom of Information Act data on more than 22,000 homicides that were not reported to the Justice Department. This dataset includes the age, race, sex, ethnicity of victims and perpetrators, in addition to the relationship between the victim and perpetrator and weapon used.
 
 
 

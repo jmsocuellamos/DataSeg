@@ -21,18 +21,18 @@ This Dataset contains complete information of all types of crimes committed in I
 
 Type of Offences given are:
 
-01 Homicide offences,
-02 Sexual offences,
-03 Attempts/threats to murder, assaults, harassments and related offences,
-04 Dangerous or negligent acts,
-05 Kidnapping and related offences,
-06 Robbery/extortion and hijacking offences,
-07 Burglary and related offences,
-08 Theft and related offences,
-09 Fraud/ deception and related offences,
-10 Controlled Drug offences,
-11 Weapons and Explosives offences,
-12 Damage to Property and to the Environment,
-13 Public order and other social code offences,
-15 Offences against government/ justice procedures and organisation of crime
+01) Homicide offences,
+02) Sexual offences,
+03) Attempts/threats to murder, assaults, harassments and related offences,
+04) Dangerous or negligent acts,
+05) Kidnapping and related offences,
+06) Robbery/extortion and hijacking offences,
+07) Burglary and related offences,
+08) Theft and related offences,
+09) Fraud/ deception and related offences,
+10) Controlled Drug offences,
+11) Weapons and Explosives offences,
+12) Damage to Property and to the Environment,
+13) Public order and other social code offences,
+15) Offences against government/ justice procedures and organisation of crime
 

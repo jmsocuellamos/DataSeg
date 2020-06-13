@@ -36,3 +36,8 @@ Type of Offences given are:
 13) Public order and other social code offences,
 15) Offences against government/ justice procedures and organisation of crime
 
+## Crímenes locales 2012 (LocalCrime2012.csv)
+
+The data set was extracted from FBI-UCR website for the year 2012 on population less than 250,000.  Here is the list of its 12 variables; Population, Violentcrimetotal, MurderandManslaughter, Forciblerape, Robbery, Aggravatedassault, Propertycrimetotal, Burglary, Larcenytheft, Motorvehicle_theft, lat, long.
+
+What impact does Population have on crimes?

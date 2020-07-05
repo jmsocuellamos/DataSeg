@@ -144,7 +144,30 @@ Este conjunto de datos reúne datos relacionados con la violencia policial en lo
 
 The "Murder Accountability Project" es la base de datos más completa de homicidios en los Estados Unidos actualmente disponible. Este conjunto de datos incluye asesinatos del Informe Suplementario de Homicidios del FBI desde 1976 hasta el presente y datos de la Ley de Libertad de Información sobre más de 22,000 homicidios que no fueron reportados al Departamento de Justicia. En este caso considermos unicamente los datos desde 2010. Las varaibles registradas son:
 
-Record ID;Agency Code;Agency.Name;Agency.Type;City;State;Year;Month;Incident;Crime.Type;Crime.Solved;Victim.Sex;Victim.Age;Victim.Race;Victim.Ethnicity;Perpetrator.Sex;Perpetrator.Age;Perpetrator.Race;Perpetrator.Ethnicity;Relationship;Weapon;Victim.Count;Perpetrator.Count;Record.Source
+01) Record ID = Código de registro del incidente
+02) Agency Code = Código de la agencia;
+03) Agency.Name = Nombre de la agencia;
+04) Agency.Type = Tipo de agencia;
+05) City = Ciudad;
+06) State = Estado;
+07) Year = Año;
+08) Month = Mes;
+09) Incident = Incidente;
+10) Crime.Type = Tipo de crimen;
+11) Crime.Solved = Crimen resuelto;
+12) Victim.Sex = Sexo de la víctima;
+13) Victim.Age = Edad de la víctima;
+14) Victim.Race = Raza de la víctima;
+15) Victim.Ethnicity = Etnia de la víctima;
+16) Perpetrator.Sex = Sexo del perpetrador;
+17) Perpetrator.Age = Edad el perpetrador;
+18) Perpetrator.Race = Raza del perpetrador;
+19) Perpetrator.Ethnicity = Etnía del perpetrador;
+20) Relationship = relación víctima-perpetrador;
+21) Weapon = Arma utilizada;
+22) Victim.Count = número de víctimas;
+23) Perpetrator.Count = número de perpetradores;
+24) Record.Source = Fuente de registro
 
 
 

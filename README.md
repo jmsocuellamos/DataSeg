@@ -80,11 +80,13 @@ El conjunto de datos se extrajo del sitio web del FBI-UCR y contiene los delitos
 
 ## BD4. Asesinatos cometidos por policias en EEUU (PoliceKillingsUS.csv)
 
-The 2014 killing of Michael Brown in Ferguson, Missouri, began the protest movement culminating in Black Lives Matter and an increased focus on police accountability nationwide. 
+El asesinato en 2014 de Michael Brown en Ferguson, Missouri, comenzó el movimiento de protesta que culminó con "Black Lives Matte"r y un mayor interés en la responsabilidad policial en este tipo de situaciones en todo el país.
 
-Since Jan. 1, 2015, The Washington Post has been compiling a database of every fatal shooting in the US by a police officer in the line of duty. It's difficult to find reliable data from before this period, as police killings haven't been comprehensively documented, and the statistics on police brutality are much less available. As a result, a vast number of cases go unreported.
+Desde el 1 de enero de 2015, The Washington Post ha estado compilando una base de datos de cada tiroteo mortal en los Estados Unidos por un oficial de policía en el cumplimiento de su deber. Es difícil encontrar datos confiables de antes de este período, ya que los incidentes policiales no se han documentado exhaustivamente y las estadísticas sobre brutalidad policial no están disponibles. El Washington Post almacena más de una docena de detalles sobre cada asesinato, incluida la raza, edad y sexo del fallecido, si la persona estaba armada y si la víctima estaba experimentando una crisis de salud mental. Han reunido esta información de los sitios web de las fuerzas del orden, nuevos informes locales, redes sociales y mediante el monitoreo de bases de datos independientes como "Asesinado por la policía" y "Encuentros fatales". El Post también ha realizado informes adicionales en muchos casos.
 
-The Washington Post is tracking more than a dozen details about each killing - including the race, age and gender of the deceased, whether the person was armed, and whether the victim was experiencing a mental-health crisis. They have gathered this information from law enforcement websites, local new reports, social media, and by monitoring independent databases such as "Killed by police" and "Fatal Encounters". The Post has also conducted additional reporting in many cases.
+Las variables consideadas son:
+
+
 
 ## BD5. Estadísticas asesinatos, población y crímenes (deaths_and_stats.csv)
 

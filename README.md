@@ -63,10 +63,6 @@ Los datos recogidos son:
 
 ## BD3. Crímenes locales 2012 (LocalCrime2012.csv)
 
-The data set was extracted from FBI-UCR website for the year 2012 on population less than 250,000.  Here is the list of its 12 variables; Population, Violentcrimetotal, MurderandManslaughter, Forciblerape, Robbery, Aggravatedassault, Propertycrimetotal, Burglary, Larcenytheft, Motorvehicle_theft, lat, long.
-
-What impact does Population have on crimes?
-
 El conjunto de datos se extrajo del sitio web del FBI-UCR y contiene los delitos registrados para todas las poblaciones de menos de 250.000 habitantes para el año 2012. La lista de variables consideradas son:
 
 01) Population: Población total, 

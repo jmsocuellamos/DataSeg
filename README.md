@@ -169,9 +169,26 @@ The "Murder Accountability Project" es la base de datos más completa de homicid
 23) Perpetrator.Count = número de perpetradores;
 24) Record.Source = Fuente de registro
 
+## BD7. Victimización (Victimización.csv)
+
+Este banco de datos contiene las series anuales sobre victimizaciones de infracciones penales por comunidades autónomas, tipología penal, periodo, grupo de edad y sexo (Fuente: Ministerio de Interior). Se computan datos provenientes de las Fuerzas y Cuerpos de  Seguridad del Estado,  Policía Foral de Navarra y policías locales  que proporcionan datos al Sistema Estadístico de Criminalidad. No se  incluyen datos de la Ertzaintza ni de los Mosos d'Esquadra. Los datos se encuentran en formato de trabajo y las características consideradas son:
+
+01) CCAA: Comunidad Autónoma.
+02) INFRAC: Tipo de infracción.
+03) ANYO: Año de la serie.
+04) EDAD: Grupo de Edad.
+05) SEXO: Sexo
+06) VICTIMAS: Número de victimizaciones de infracciones penales.
 
 
-Este conjunto de datos incluye la edad, la raza, el sexo, el origen étnico de las víctimas y los autores, además de la relación entre la víctima y el autor y el arma utilizada.
+## BD8. Cibercriminalidad (Cibercriminalidad.csv)
 
+Este banco de datos contiene los datos sobre detenciones e investigados por causa de cibercriminalidad por comunidades autónomas, grupo penal, periodo, grupo de edad y sexo. Se computan datos provenientes de las Fuerzas y Cuerpos de Seguridad del Estado, Policía Foral de Navarra y policías locales que proporcionan datos al Sistema Estadístico de Criminalidad. No se incluyen datos de la Ertzaintza ni de los Mosos d'Esquadra. En los delitos sexuales se excluyen las agresiones sexuales con/sin  penetración y los abusos sexuales con penetración (Fuente: Ministerio de Interior). Las características consideradas son:
 
+01) CCAA: Comunidad Autónoma.
+02) Delito: Grupo penal. 
+03) Edad: Edad del detenido o investigado clasificado según grupos de edad.
+04) Sexo: Sexo del detenido o investigado.
+05) Año: Año analizado.
+06) Frecuencia: Número de detenidos o investigados para la combinación de características anteriores.
 

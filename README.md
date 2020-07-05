@@ -142,9 +142,13 @@ Este conjunto de datos reúne datos relacionados con la violencia policial en lo
 
 ## BD6. Base datos FBI (2010 a 2019) (FBI.csv)
 
-The Murder Accountability Project is the most complete database of homicides in the United States currently available. This dataset includes murders from the FBI's Supplementary Homicide Report from 1976 to the present and Freedom of Information Act data on more than 22,000 homicides that were not reported to the Justice Department. This dataset includes the age, race, sex, ethnicity of victims and perpetrators, in addition to the relationship between the victim and perpetrator and weapon used.
+The "Murder Accountability Project" es la base de datos más completa de homicidios en los Estados Unidos actualmente disponible. Este conjunto de datos incluye asesinatos del Informe Suplementario de Homicidios del FBI desde 1976 hasta el presente y datos de la Ley de Libertad de Información sobre más de 22,000 homicidios que no fueron reportados al Departamento de Justicia. En este caso considermos unicamente los datos desde 2010. Las varaibles registradas son:
+
+Record ID;Agency Code;Agency.Name;Agency.Type;City;State;Year;Month;Incident;Crime.Type;Crime.Solved;Victim.Sex;Victim.Age;Victim.Race;Victim.Ethnicity;Perpetrator.Sex;Perpetrator.Age;Perpetrator.Race;Perpetrator.Ethnicity;Relationship;Weapon;Victim.Count;Perpetrator.Count;Record.Source
 
 
+
+Este conjunto de datos incluye la edad, la raza, el sexo, el origen étnico de las víctimas y los autores, además de la relación entre la víctima y el autor y el arma utilizada.
 
 
 

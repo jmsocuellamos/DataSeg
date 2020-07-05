@@ -86,11 +86,59 @@ Desde el 1 de enero de 2015, The Washington Post ha estado compilando una base d
 
 Las variables consideadas son:
 
-
+01) id = identificador del incidente,
+02) name = nombre del fallecido,
+02) date = fecha del incidente,
+03) manner_death = tipo de fallecimiento,
+04) armed = arma que portaba el fallecido
+05) age = edad del fallecido,
+06) gender = sexo del fallecido (M = Hombres, F = Mujeres),
+07) race = raza del fallecido (A = Asiático, W = Blanco, H = Hispano, B = Negro, O = Oceanía),
+08) city = ciudad del incidente,
+09) state = estado del incidente,
+10) signs_of_mental_illness = Signos de enfermedad mental (TRUE o FALSE),
+11) threat_level = nivel de amenaza del fallecido,
+12) flee = método de huida del fallecido,
+13) body_camera = camara de policia (TRUE o FALSE)
 
 ## BD5. Estadísticas asesinatos, población y crímenes (deaths_and_stats.csv)
 
-This dataset pulls together data related to police violence in the United States. At this stage, it is focused on fatalities of citizens and police. I hope this dataset can be an objective source for providing thoughtful, fact-based analysis of this important issue.
+Este conjunto de datos reúne datos relacionados con la violencia policial en los Estados Unidos. En esta caso, se centra en las muertes de ciudadanos y policías. Las variables recogidas son:
+
+01) State = Estado,
+02) City = Ciudad,
+03) PD = Departamento de policia,
+04) Black_Killed = Negros asesinados,
+05) Hispanic_Killed = Hispanos asesinados,
+06) Native_American_Killed = Nativos americanos asesinados,
+07) Asian_Killed = Asiáticos asesinados,
+08) Pacific_Islanders_Killed = Indigenas del pacifíco asesinados,
+09) White_People_Killed = Blancos asesinados,
+10) Unknown_Race_Killed = Raza desconocida,
+11) Total = Población de la ciudad en el momento de recogida de datos,
+12) Black = Total de negros,
+13) White = Total de blancos,
+14) Amer_Indian = Total de indios americanos,
+15) Asian = Total de asiáticos,
+16) Hawaiian = Total de hawaianos,
+17) Other = Total de otros,
+18) Two_or_more_races = dos o mas razas en la ciudad,
+19) Hispanic = Hispanos,
+20) Black_White_Dissimilarity_Index = índice de disimilaridad entre blancos y negros,
+21) Murder_nonnegligent_manslaughter = Asesinatos u homicios involuntarios,
+22) Violent_crimes_2013 = Víctimas de crímenes violentos en 2013,
+23) Violent_crimes_2014 = Víctimas de crímenes violentos en 2014,
+24) Violent_crimes_2015 = Víctimas de crímenes violentos en 2015,
+25) Violent_crimes_2016 = Víctimas de crímenes violentos en 2016,
+26) Violent_crimes_2017 = Víctimas de crímenes violentos en 2017,
+27) Violent_crimes_2018 = Víctimas de crímenes violentos en 2018,
+28) TotalArrests_2013 = Arrestos totales en 2013,
+29) TotalArrests_2014 = Arrestos totales en 2014,
+30) TotalArrests_2015 = Arrestos totales en 2015,
+31) TotalArrests_2016 = Arrestos totales en 2016,
+32) TotalArrests_2017 = Arrestos totales en 2017,
+33) TotalArrests_2018 = Arrestos totales en 2018
+
 
 ## BD6. Base datos FBI (2010 a 2019) (FBI.csv)
 

@@ -192,3 +192,17 @@ Este banco de datos contiene los datos sobre detenciones e investigados por caus
 05) Año: Año analizado.
 06) Frecuencia: Número de detenidos o investigados para la combinación de características anteriores.
 
+## BD9. Víctimas de accidentes (Víctimas accidentes.csv)
+
+Este banco de datos contiene las series mensuales de diferentes situaciones de victimas de accidentes de tráfico en el periodo 1993 a 2016 a nivel estatal (Fuente: Dirección General de Tráfico). Las características consideradas son:
+
+01) Anyo: Año de la serie registrada.
+02) Mes: Mes de la serie registrada.
+03) Muertos interurbanas: Número de fallecidos en vías interurbanas.
+04) Muertos urbanas: Número de fallecidos en vías urbanas.
+05) Heridos graves interurbanas: Número de heridos graves en vías interurbanas.
+06) Heridos graves urbanas: Número de heridos graves en vías urbanas.
+07) Heridos leves interurbanas: Número de heridos leves en vías interurbanas.
+08) Heridos leves urbanas: Número de heridos leves en vías urbanas.
+
+

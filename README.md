@@ -27,39 +27,60 @@ Berlín es una ciudad multicultural y con una imagen del crimen muy especial. Po
 19) Drugs: Drogas
 20) Local: Otros delitos menores
 
-El tipo de preguntas que se plantea la comunidad son:
-
-¿Qué parte de Berlín es más peligrosa?
-¿Qué crímenes están creciendo?
-¿Qué crímenes están bajando?
+El tipo de preguntas que se plantea la comunidad son: ¿Qué parte de Berlín es más peligrosa? ¿Qué crímenes están creciendo? ¿Qué crímenes están bajando?
 
 
 ## BD2. Crímenes en Irlanda (Ireland_Garda_Crimes.csv)
 
-This Dataset contains complete information of all types of crimes committed in Ireland from the year 2003 to 2019. The data is given Garda Division( An Administrative division of Ireland ) and is given QUARTERLY. This CSV file contains Quarterly crime data for each offence and type of offence ( as specified in the Irish Penal Code) for each Garda Division ( total 28 in number) from 2003Q1 to 2019Q3 there are 67 Data columns for Quarterly data
+Este conjunto de datos contiene información completa de todos los tipos de delitos cometidos en Irlanda desde el año 2003 hasta 2019. Los datos son proporcionados por la policia Irlandesa de froma trimestral. Los delitos vienen codificados según el código penal irlandés. Los delitos sonsiderados son:
 
-Type of Offences given are:
+01) Homicide offences (Homicidios),
+02) Sexual offences (Delitos sexuales),
+03) Attempts/threats to murder, assaults, harassments and related offences (
+Intentos / amenazas de asesinato, asaltos, hostigamientos y delitos relacionados),
+04) Dangerous or negligent acts (Actos peligrosos o negligentes),
+05) Kidnapping and related offences (Secuestro),
+06) Robbery/extortion and hijacking offences (Extorsión),
+07) Burglary and related offences (Robo),
+08) Theft and related offences (Hurtos),
+09) Fraud/ deception and related offences (Fraude),
+10) Controlled Drug offences (Drogas),
+11) Weapons and Explosives offences (Armas y explosivos),
+12) Damage to Property and to the Environment (Daños contra la propiedad o el medio ambiente),
+13) Public order and other social code offences (Orden público y otras infracciones del código social),
+15) Offences against government/ justice procedures and organisation of crime (Delitos contra los procedimientos del gobierno / justicia y la organización del delito).
 
-01) Homicide offences,
-02) Sexual offences,
-03) Attempts/threats to murder, assaults, harassments and related offences,
-04) Dangerous or negligent acts,
-05) Kidnapping and related offences,
-06) Robbery/extortion and hijacking offences,
-07) Burglary and related offences,
-08) Theft and related offences,
-09) Fraud/ deception and related offences,
-10) Controlled Drug offences,
-11) Weapons and Explosives offences,
-12) Damage to Property and to the Environment,
-13) Public order and other social code offences,
-15) Offences against government/ justice procedures and organisation of crime
+Los datos recogidos son:
+
+01) REGION: Región de Irlanda,
+02) GARDA_DIVISION: División de la policia irlandesa,
+03) OFFENCE_CODE: Código del delito,
+04) OFFENCE: Delito,
+05) TYPE_OF_OFFENCE: Tipo de delito,
+06) PERIOD: Periodo de registro obtenido como año-trimestre,
+07) TOTAL: número de delitos registrados. 
+
 
 ## BD3. Crímenes locales 2012 (LocalCrime2012.csv)
 
 The data set was extracted from FBI-UCR website for the year 2012 on population less than 250,000.  Here is the list of its 12 variables; Population, Violentcrimetotal, MurderandManslaughter, Forciblerape, Robbery, Aggravatedassault, Propertycrimetotal, Burglary, Larcenytheft, Motorvehicle_theft, lat, long.
 
 What impact does Population have on crimes?
+
+El conjunto de datos se extrajo del sitio web del FBI-UCR y contiene los delitos registrados para todas las poblaciones de menos de 250.000 habitantes para el año 2012. La lista de variables consideradas son:
+
+01) Population: Población total, 
+02) Violentcrimetotal: Delitos violentos, 
+03) MurderandManslaughter: Homicidio y homicidio involuntario, 
+04) Forciblerape: Violación forzada, 
+05) Robbery: Robo, 
+06) Aggravatedassault: Asalto con agravantes, 
+07) Propertycrimetotal: Delitos contra la propiedad, 
+08) Burglary: ,
+09) Larcenytheft, 
+10) Motorvehic_theft: Robo de vehículos, 
+11) lat: Latitud, 
+12) long: Longitud
 
 ## BD4. Asesinatos cometidos por policias en EEUU (PoliceKillingsUS.csv)
 

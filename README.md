@@ -10,12 +10,12 @@ Berlín es una ciudad multicultural y con una imagen del crimen muy especial. Po
 02) District: Distrito
 03) Code: Código del barrio
 04) Location: Nombre del barrio
-05) Robbery: Hurtos
+05) Robbery: Robos menores
 06) Street_robbery: Hurtos callejeros
 07) Injury: Lesiones
 08) Agg_assault: Asaltos
 09) Threat: Amenazas
-10) Theft: Robos
+10) Theft: Hurtos
 11) Car: Robos de coches
 12) From_car: Robos dentro de los coches
 13) Bike: Robos de bicicletas

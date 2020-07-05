@@ -4,16 +4,35 @@ Conjuntos de datos en csv para la materia de estadística en el grado de segurid
 
 ## BD1. Crímenes en Berlin (Berlin_crimes.csv)
 
-Berlin is a special city, multicultural city. And the crime image is special there. For example there are no bloody 
-drug wars, ghetto or neighborhoods where police afraid to get. Crimes like "deprivation of liberty" and "treat" are in 
-one column. But "larceny" - separated to 4 categories: theft of bikes, of auto, from auto (sic!) and rest kind of theft. 
-Particular column for "Damage to property due graffiti" (Sach-beschädigung durch Graffiti (sic!). Numbers of crimes are 
-connected with every single neighborhood of Berlin's part. Statistics covering period of 2012 - 2019 years.
+Berlín es una ciudad multicultural y con una imagen del crimen muy especial. Por ejemplo, no hay sangrientas guerras de drogas, guetos o vecindarios donde la policía teme llegar. En este banco de datos se recoge la información de delitos cometidos en el periodo de 2012 a 2016 en cada uno de los barrios de la ciudad. La información recogida es:
 
-Questions to community:
-1) what part of Berlin is most dangerous?
-2) what crimes are growing?
-3) what crimes are going low?
+01) Year: Año de registro
+02) District: Distrito
+03) Code: Código del barrio
+04) Location: Nombre del barrio
+05) Robbery: Hurtos
+06) Street_robbery: Hurtos callejeros
+07) Injury: Lesiones
+08) Agg_assault: Asaltos
+09) Threat: Amenazas
+10) Theft: Robos
+11) Car: Robos de coches
+12) From_car: Robos dentro de los coches
+13) Bike: Robos de bicicletas
+14) Burglary: Otros robos
+15) Fire: Incendios
+16) Arson: Incendios provocados
+17) Damage: Danños
+18) Graffiti: Grafitis
+19) Drugs: Drogas
+20) Local: Otros delitos menores
+
+El tipo de preguntas que se plantea la comunidad son:
+
+¿Qué parte de Berlín es más peligrosa?
+¿Qué crímenes están creciendo?
+¿Qué crímenes están bajando?
+
 
 ## BD2. Crímenes en Irlanda (Ireland_Garda_Crimes.csv)
 

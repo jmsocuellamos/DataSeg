@@ -22,7 +22,7 @@ Berlín es una ciudad multicultural y con una imagen del crimen muy especial. Po
 14) Burglary: Otros robos
 15) Fire: Incendios
 16) Arson: Incendios provocados
-17) Damage: Danños
+17) Damage: Daños
 18) Graffiti: Grafitis
 19) Drugs: Drogas
 20) Local: Otros delitos menores

@@ -140,9 +140,9 @@ Este conjunto de datos reúne datos relacionados con la violencia policial en lo
 33) TotalArrests_2018 = Arrestos totales en 2018
 
 
-## BD6. Base datos FBI (2001 a 2014) (FBI.csv)
+## BD6. Base datos FBI (2006 a 2014) (FBI.csv)
 
-The "Murder Accountability Project" es la base de datos más completa de homicidios en los Estados Unidos actualmente disponible. Este conjunto de datos incluye asesinatos del Informe Suplementario de Homicidios del FBI desde 1976 hasta el presente y datos de la Ley de Libertad de Información sobre más de 22,000 homicidios que no fueron reportados al Departamento de Justicia. En este caso considermos unicamente los datos desde 2010. Las varaibles registradas son:
+The "Murder Accountability Project" es la base de datos más completa de homicidios en los Estados Unidos actualmente disponible. Este conjunto de datos incluye asesinatos del Informe Suplementario de Homicidios del FBI desde 1976 hasta el presente y datos de la Ley de Libertad de Información sobre más de 22,000 homicidios que no fueron reportados al Departamento de Justicia. En este caso considermos unicamente los datos desde 2006. Las varaibles registradas son:
 
 01) Record ID = Código de registro del incidente
 02) Agency Code = Código de la agencia;
